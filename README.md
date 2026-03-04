@@ -2,6 +2,9 @@
 
 A professional web application for civil engineers to design concrete beams with structural analysis capabilities. Performs moment balance calculations per ACI 318 requirements.
 
+🔗 **Live Application**: https://project-eight-blond-38.vercel.app
+📦 **GitHub Repository**: https://github.com/CleisonManriqueAguirre/concrete-beam-designer
+
 ## 🏗️ Features
 
 - **ACI 318 Compliant Analysis**: Complete moment capacity analysis following ACI 318-19 building code requirements
